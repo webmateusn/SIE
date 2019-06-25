@@ -1,2 +1,2 @@
-# sead
-Sistema de Ensino EAD
+# SIE
+Sistema de Informações Escolares
